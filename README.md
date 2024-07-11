@@ -1,1 +1,2 @@
-# NetflixClone using html and css 
+# NetflixClone
+using HTML and CSS 
